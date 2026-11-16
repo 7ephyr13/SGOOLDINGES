@@ -2,3 +2,21 @@ body {
   font-family: Arial, sans-serif;
   margin: 2rem;
 }
+/*
+Source - https://stackoverflow.com/q/65560118
+Posted by user14541933, modified by community. See post 'Timeline' for change history
+Retrieved 2026-11-16, License - CC BY-SA 4.0
+*/
+
+html{
+    background-color: grey;
+}
+
+#container{
+    top: 10px;
+    padding: 82px;
+    margin: auto;
+    width: 450px;
+    background-color: white;
+    position: relative;
+}
